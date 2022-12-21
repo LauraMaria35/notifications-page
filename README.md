@@ -7,6 +7,7 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -28,6 +29,10 @@ Users should be able to:
 
 ![](assets/images/notificatons.jpg)
 ![](assets/images/mobile-notification.jpg)
+
+### Links
+- Solution URL: [Add solution URL here](https://github.com/LauraMaria35/notifications-page)
+- Live Site URL: [Add live site URL here](https://lauramaria35.github.io/notifications-page/)
 
 ## My process
 
